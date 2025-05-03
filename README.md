@@ -10,13 +10,13 @@ Welcome to my GitHub! I’m a passionate **Computer Science student** focused on
 
 ## 🔨 Featured Projects
 
-✨ **[Review Portal](https://github.com/a7-peer/review-portal)**  
+✨ **[Review Portal]([https://github.com/a7-peer/review-portal](https://gitlab.com/syedasadalishah45/se-reviewportal-2025.git))**  
 A Laravel + Docker application for managing dealership reviews, with CI/CD integration and MySQL backend.
 
-✨ **[Android Streak Tracker](https://github.com/a7-peer/streak-tracker)**  
+✨ **[Android Streak Tracker]([https://github.com/a7-peer/streak-tracker](https://gitlab.com/syedasadalishah45/gp-project.git))**  
 Jetpack Compose Android app with Firebase Authentication and Room Database for tracking activity streaks.
 
-✨ **[Data Engineering Pipeline](https://github.com/a7-peer/data-pipeline-project)** *(if you have this, replace with your real project link)*  
+✨ **[Data Engineering Pipeline]([https://github.com/a7-peer/data-pipeline-project](https://github.com/a7-peer/Data-Engineering-Projects.git))**
 End-to-end data pipeline using Python, GCP Storage, Data Fusion, and BigQuery for synthetic taxi service data analysis.
 
 ---
