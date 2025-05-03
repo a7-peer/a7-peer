@@ -1,4 +1,4 @@
-# 👋 Hi, I’m a7-peer
+# 👋 Hi, I’m Asad
 
 Welcome to my GitHub! I’m a passionate **Computer Science student** focused on:
 
