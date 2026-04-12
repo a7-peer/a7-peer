@@ -1,11 +1,6 @@
 # 👋 Hi, I’m Asad
 
-Welcome to my GitHub! I’m a passionate **Computer Science student** focused on:
-
-- 🚀 **Data Engineering** | Python, BigQuery, Data Fusion, GCP
-- 📱 **Android Development** | Kotlin, Jetpack Compose, Firebase
-- 🛠 **Software Engineering** | Laravel, Docker, CI/CD, GitLab, Distributed Systems
-
+Welcome to my GitHub! I’m a passionate **Computer Science student
 ---
 
 ## 🔨 Featured Projects
