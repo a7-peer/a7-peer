@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Asad
 
-Welcome to my GitHub! I’m a passionate **Computer Science student
+
 ---
 
 ## 🔨 Featured Projects
